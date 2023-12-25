@@ -6,6 +6,7 @@ capable of analyzing text inputs and URLs provided by users and predicting multi
 
 Architecture Diagram:
 
+![Untitled Diagram](https://github.com/itsayushpandey/Content-Moderation-as-a-Service/assets/32012449/e8160ce4-8e33-40af-b7c7-87502660bdd8)
 
 
 Components Overview :
