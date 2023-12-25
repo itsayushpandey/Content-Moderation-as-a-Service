@@ -1,9 +1,10 @@
 # Content-Moderation-as-a-Service
 
 
-## Project Goals: The primary goal of our project is to implement a scalable service-oriented architecture for Content Moderation System  
-capable of analyzing text inputs and URLs provided by users and predicting multiple labels, including toxic, severe toxic, obscene, insult, threat, and identity_hate. The project aims to integrate machine learning models for accurate label prediction and provide scalable solution.
+## Project Goals: 
 
+The primary goal of our project is to implement a scalable service-oriented architecture for Content Moderation System  
+capable of analyzing text inputs and URLs provided by users and predicting multiple labels, including toxic, severe toxic, obscene, insult, threat, and identity_hate. The project aims to integrate machine learning models for accurate label prediction and provide scalable solution.
 
 
 
